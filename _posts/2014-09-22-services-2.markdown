@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: locataire.jpg
 category: Services
 title: Locataires ?
 description: |

@@ -5,5 +5,5 @@ category: Services
 title: Propriétaires ?
 description: |
 ---
-  Pas d'honoraires, 6% TTC de frais de gestion<br>
+  Pas d'honoraires, 50€ TTC de frais de gestion<br>
 Aucun honoraire à payer et les frais de gestion les plus compétitifs du marché ! Suivez la gestion de vos logements 7j/7 depuis notre interface en ligne.

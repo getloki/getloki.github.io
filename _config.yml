@@ -10,8 +10,8 @@ description: > # "Write an awesome description for your new site here.
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
   description.
-copyright: 'Copyright &copy; 2017 Loki. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+copyright: 'Copyright &copy; 2017 Loki. '
+credits: 'La 1ère agence immobilière en ligne'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -28,5 +28,5 @@ permalink: pretty
 social:
   - title: twitter
     url: https://twitter.com/get_loki
-  - title: linkedin
+  - title: https://www.linkedin.com/in/ralph-bergeron-69ab16109
     url: 

@@ -2,7 +2,8 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Propriétaires ?
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Pas d'honoraires, 6% TTC de frais de gestion<br>
+Aucun honoraire à payer et les frais de gestion les plus compétitifs du marché ! Suivez la gestion de vos logements 7j/7 depuis notre interface en ligne.

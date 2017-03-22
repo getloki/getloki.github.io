@@ -5,5 +5,5 @@ category: Services
 title: Locataires ?
 description: |
 ---
-  Pas d'honoraires, démarches 100% en ligne<br>
+  Un accès gratuit à votre logement avec les services d'un professionnel<br>
 Vous ne payez aucun honoraire quand vous emménagez. Et vous pouvez tout faire en ligne de façon simple et fluide. On est en 2017 après tout !

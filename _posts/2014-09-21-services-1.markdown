@@ -5,7 +5,7 @@ category: Services
 title: Propriétaires ?
 description: |
 ---
-  Aucun honoraire : Mise en location sans frais<br>
-  Risques d'impayés réduits : Notre algorithme complexe vous aide à choisir le meilleur locataire<br>
+  Aucun honoraire : mise en location sans frais<br>
+  Risques d'impayés réduits : notre algorithme ultra-performant vous aide à choisir le meilleur locataire<br>
   Frais de gestion forfaitaires : 50€ TTC / mois<br>
-  Interface en ligne sécurisée : Suivez la gestion de vos logements 7j/7
+  Interface en ligne sécurisée : suivez la gestion de vos logements 7j/7

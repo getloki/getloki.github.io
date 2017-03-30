@@ -7,5 +7,5 @@ description: |
 ---
   Aucun honoraire : mise en location sans frais<br><br>
   Risques d'impayés réduits : notre algorithme ultra-performant vous aide à choisir le meilleur locataire<br><br>
-  Frais de gestion forfaitaires : 50€ TTC / mois<br><br>
-  Interface en ligne sécurisée : suivez la gestion de vos logements 7j/7
+  Frais de gestion forfaitaires : 50€ TTC / mois<br>(équivalent à 6% de 800€)
+

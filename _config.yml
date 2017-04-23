@@ -5,12 +5,12 @@
 url: http://getloki.io
 title: Get Loki
 email: your-email@domain.com
-author: Loki
-description: > # "Write an awesome description for your new site here. 
+author: loki
+description: > # "Write an awesome description for your new site here.
   Agence immobilière en ligne spécialisée dans la location sans honoraires.
   Démarches locatives gratuites pour les locataires comme pour les propriétaires.
   Frais de gestion réduits pour les propriétaires.
-copyright: 'Copyright &copy; 2017 Loki. '
+copyright: 'Copyright &copy; 2017 loki. '
 credits: 'La 1ère agence immobilière en ligne'
 
 # ----------------------- #
